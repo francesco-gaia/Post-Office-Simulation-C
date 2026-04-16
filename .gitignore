@@ -1,0 +1,7 @@
+bin/
+lib/
+obj/
+tmp/
+stats/
+*.DS_store
+*.sh
